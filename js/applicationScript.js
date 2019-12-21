@@ -51,6 +51,20 @@ var initClient = function(y) {
   console.log("Client initialized");
 };
 
+// testFunction2
+var testFunction2 = function(){
+
+//start variable declaration
+   var testParam2 = null;
+
+//end variable declaration
+
+
+  $("#test-input").html("Updated Element");
+  //Additional own javascript
+ return testParam2;
+}
+
 // testFunction
 var testFunction = function(){
 
