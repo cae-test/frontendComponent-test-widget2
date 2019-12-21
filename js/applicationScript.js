@@ -70,6 +70,7 @@ var testFunction = function(){
 
 //start variable declaration
    var testParam = null;
+    console.log("live-code-editing");
 
 //end variable declaration
 
